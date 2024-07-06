@@ -33,7 +33,7 @@ window.onload = () => {
         }), 
         t.splice(3, 0, {
           title:
-            "<p><b><a target='_blank' href='https://rajeshrishi2002.github.io/lucky/'/>LUCKY</a></b></p><p>Sometimes you are forget<br> how lucky you are,</p><p><img id='profile_img' src='spin.png'></p>"
+            "<p><b><a target='_blank' href='https://rajeshrishi2002.github.io/lottery/'/>LUCKY</a></b></p><p>Sometimes you forget<br> how lucky you are,</p><p><img id='profile_img' src='spin.png'></p>"
         }),
         
         t.splice(3, 0, {

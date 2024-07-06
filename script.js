@@ -110,7 +110,8 @@ window.onload = () => {
         }),
         t.splice(0, 0, {
           title:
-            "<p> A Princess is born to Live,Laugh,and Love </p>"
+            "<p><a target='blank' href='jolly.mp4'/><b> A Princess is born to Live,Laugh,and Love</b></a></p>"
+
         }),
 
         t.splice(0, 0, {

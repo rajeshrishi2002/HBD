@@ -115,7 +115,7 @@ window.onload = () => {
 
         t.splice(0, 0, {
           title:
-            "<p><b><a target='blank' href='https://rajeshrishi2002.github.io/born/'/>28/05/2004</a></b></p><p><br>Friday</p>"
+            "<p><b><a target='blank' href='https://rajeshrishi2002.github.io/born/'/>28/05/2004</a></b><p><br>Friday</p>"
         }),
 
         t.splice(3, 0, {

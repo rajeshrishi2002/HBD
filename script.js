@@ -38,7 +38,7 @@ window.onload = () => {
         
         t.splice(3, 0, {
           title:
-           "<p>Ennala maraka mudiyatha oruthangalukaaga oru marakamudiyatha gift kuduthu irukenu namburen😇 ,<br> ithula na solli iruka ellamey true thaan and kandipa neenga life la perusa jeipinga appo ungalukaga santhoshapadura first person naanathaan irupen 🥳and naa yeppomey ungala hurt pandra side iruka maaten,naa yeppomey ungala celebrate pandra side thaan,<br> suppose ithu varaikum yethathu hurt panni irunthenna <b><a target='_blank' href='https://rajeshrishi2002.github.io/sorry/'/>romba sorry❤️‍🩹</a></b></p>,inimey ippadi nadakathu ☹️,neenga yenaku oru promise pannanum yeppomey happy irupenu or else i will make you the happiest🤗,</p>"
+            "<p>Ennala maraka mudiyatha oruthangalukaaga oru marakamudiyatha gift kuduthu irukenu namburen😇 ,<br> ithula na solli iruka ellamey true thaan and kandipa neenga life la perusa jeipinga appo ungalukaga santhoshapadura first person naanathaan irupen 🥳and naa yeppomey ungala hurt pandra side iruka maaten,naa yeppomey ungala celebrate pandra side thaan,<br> suppose ithu varaikum yethathu hurt panni irunthenna <b><a target='_blank' href='https://rajeshrishi2002.github.io/sorry/'/>romba sorry❤️‍🩹</a></b></p>,inimey ippadi nadakathu ☹️,neenga yenaku oru promise pannanum yeppomey happy irupenu or else i will make you the happiest🤗,</p>"
         }),
         t.splice(3, 0, {
           title:
@@ -111,13 +111,11 @@ window.onload = () => {
         t.splice(0, 0, {
           title:
             "<p><a target='blank' href='jolly.mp4'/><b> A Princess is born to Live,Laugh,and Love</b></a></p>"
-
         }),
 
         t.splice(0, 0, {
           title:
             "<p><b><a target='blank' href='https://rajeshrishi2002.github.io/born/'/>28/05/2004</a></b></p><p><br>Friday</p>"
-
         }),
 
         t.splice(3, 0, {
@@ -208,4 +206,3 @@ window.onload = () => {
     })(),
     a();
 };
-
